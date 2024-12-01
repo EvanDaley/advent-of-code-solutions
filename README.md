@@ -43,7 +43,10 @@ fs.readFile('./2024/day${dayNumber}.txt', 'utf8', (err, data) => {
 
 ## Set up your input
 
-Then grab your challenge input and store it in the `.txt` file for that day, which will be at `{year}/day{number}.txt`.
+Then grab your challenge input and store it in the `.txt` file for that day, which will be in the project at:
+```
+{year}/day{number}.txt
+```
 
 ## Running solutions
 
