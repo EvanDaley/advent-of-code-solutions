@@ -57,3 +57,7 @@ npm run day3
 ```
 
 The package.json run script automatically gets created by the generate command above. You just need to run day {whatever}!
+
+By default, it will just iterate over the text file. 
+
+Add your actual solution logic in `findSolution()` in ./2024/day{whatever}.js
