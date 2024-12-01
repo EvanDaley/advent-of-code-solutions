@@ -1,8 +1,12 @@
 # advent-of-code-solutions
 
-## Solution Boilerplate
+## Generate Daily Boilerplate
 
-To generate the structure of a solution, run
+When solving these problems, you always need to read a large input, and iterate over it. 
+
+This repo has an npm command that creates two files for any given day.
+
+To generate the structure of a solution for a day, run
 ```
 npm run gen -- {int}
 ```
