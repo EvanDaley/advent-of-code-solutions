@@ -12,11 +12,7 @@ npm run gen -- {int}
 ```
 The placeholder should represent the "day" you're solving. 
 
-```
-npm run gen -- 3
-```
-
-Does the following:
+For example `npm run gen -- 3` does the following:
 - Create a 2024/day3.js file
 - Create a 2024/day3.txt file
 
