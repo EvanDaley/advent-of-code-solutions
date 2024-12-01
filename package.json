@@ -1,0 +1,20 @@
+{
+  "name": "js-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "generate": "node ./generateFiles.js",
+    "gen": "node ./generateFiles.js",
+    "23day1": "node 2023/day1.js",
+    "23day2": "node 2023/day2.js",
+    "23day3": "node 2023/day3.js",
+    "day1": "node 2024/day1.js",
+    "day2": "node 2024/day2.js",
+    "day3": "node 2024/day3.js",
+    "day4": "node 2024/day4.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
