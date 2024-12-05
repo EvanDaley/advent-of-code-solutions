@@ -13,7 +13,8 @@
     "day1": "node 2024/day1.js",
     "day2": "node 2024/day2.js",
     "day3": "node 2024/day3.js",
-    "day4": "node 2024/day4.js"
+    "day4": "node 2024/day4.js",
+    "day5": "node 2024/day5.js"
   },
   "author": "",
   "license": "ISC"
