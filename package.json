@@ -15,8 +15,12 @@
     "day3": "node 2024/day3.js",
     "day4": "node 2024/day4.js",
     "day5": "node 2024/day5.js",
-    "day6": "node 2024/day6.js"
+    "day6": "node 2024/day6.js",
+    "day7": "node 2024/day7.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
 }

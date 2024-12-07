@@ -19,7 +19,8 @@ if (!fs.existsSync(yearDir)) {
 }
 
 // Create the content for day{number}.js
-const jsContent = `import fs from 'fs';
+const jsContent = `
+import fs from 'fs';
 
 function findSolution(input) {
   let solution = 0;
